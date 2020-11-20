@@ -385,8 +385,8 @@ body {
 }
 @media (min-width: 1024px) {
   body {
-    background-position: right 1000px bottom 300px, left 950px bottom -600px;
-    background-size: 60%, 60%;
+    background-position: right 700px bottom 250px, left 780px bottom -550px;
+    background-size: 90%, 80%;
   }
 }
 
